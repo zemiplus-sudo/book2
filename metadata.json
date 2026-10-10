@@ -1,0 +1,6 @@
+{
+  "name": "스마트 도서관 예약 시스템",
+  "description": "Google Apps Script API 백엔드와 연동되는 모던 단일 페이지(SPA) 도서관 도서 검색 및 실시간 예약 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
